@@ -1,0 +1,7 @@
+D:\C# code\weekend c# No1\classhomework\classhomework\bin\Debug\classhomework.exe.config
+D:\C# code\weekend c# No1\classhomework\classhomework\bin\Debug\classhomework.exe
+D:\C# code\weekend c# No1\classhomework\classhomework\bin\Debug\classhomework.pdb
+D:\C# code\weekend c# No1\classhomework\classhomework\obj\Debug\classhomework.csprojAssemblyReference.cache
+D:\C# code\weekend c# No1\classhomework\classhomework\obj\Debug\classhomework.csproj.CoreCompileInputs.cache
+D:\C# code\weekend c# No1\classhomework\classhomework\obj\Debug\classhomework.exe
+D:\C# code\weekend c# No1\classhomework\classhomework\obj\Debug\classhomework.pdb
